@@ -1,3 +1,7 @@
+///// NODE CODE - test CODE
+///// also here - https://github.com/rustyoldrake/nodecode (testing github)
+// for more background on super basics - this tutoral is good: https://www.youtube.com/watch?v=pU9Q6oiQNd0
+
 console.log('----  module1.js ----')
 console.log('I am programming in JavaScript');
 var a=1;  // a variable with a value
@@ -20,6 +24,5 @@ var cfa = require('./module_called_from_another.js');
 //console.log('----  underscore module (from npm install underscore ) ----');
 //var _ = require('underscore');
 //console.log(_);
-
 
 // also ran npm init
