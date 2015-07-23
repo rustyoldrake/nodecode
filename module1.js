@@ -2,6 +2,7 @@
 ///// also here - https://github.com/rustyoldrake/nodecode (testing github)
 // for more background on super basics - this tutoral is good: https://www.youtube.com/watch?v=pU9Q6oiQNd0
 // another change to test the ATOM GIT PLUS package
+// another change to test github update
 
 console.log('----  module1.js ----')
 console.log('I am programming in JavaScript');
